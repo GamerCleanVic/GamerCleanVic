@@ -33,7 +33,7 @@ INCOMPETÊNCIAS
 </tr>
 <tr align="justify">
 <td>
-📚 DESIGN GRÁFICO (AVANÇADO)
+📚 DESIGN GRÁFICO (INTERMEDIÁRIO)
 </td>
 </tr>
 <tr align="justify">
