@@ -15,6 +15,8 @@
 <a href="https://jottalpb.blogspot.com/p/redes-sociais.html" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/RedesGH.png" /></a>
 <a href="https://jottalpb.blogspot.com/p/donate.html" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/DonatesGH.png" /></a>
 </div><br />
+
+<div>
 🔖 INCOMPETÊNCIAS
 - 📖 INFORMÁTICA BÁSICA WINDOWS E LINUX
 - 📚 DESIGN GRÁFICO (AVANÇADO)
@@ -25,3 +27,4 @@
 - 📗 ALGORITMO, LÓGICA DE PROGRAMAÇÃO (A INICIAR)
 - 📗 BANCO DE DADOS (A INICIAR)
 - 📗 GIT / GITHUB (INICIANTE GUI SÓ)
+</div>
