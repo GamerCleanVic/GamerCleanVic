@@ -17,15 +17,15 @@
 </div><br />
 
 <div align="center">
-<table align="center">
+<table>
 <tr>
-<th>
+<th align="center">
 <h1>
 INCOMPETÊNCIAS
 </h1>
 </th>
 </tr>
-<tr>
+<tr align="center">
 <td>
 📖 INFORMÁTICA BÁSICA WINDOWS E LINUX
 </td>
