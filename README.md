@@ -17,7 +17,7 @@
 </div><br />
 
 <div align="center">
-<table>
+<table align="center">
 <tr>
 <th>
 <h1>
