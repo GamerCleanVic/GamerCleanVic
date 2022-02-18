@@ -68,7 +68,7 @@ INCOMPETÊNCIAS
 </tr>
 <tr align="justify">
 <td>
-📗 GIT / GITHUB (INICIANTE GUI SÓ)
+📖 GIT / GITHUB (INICIANTE GUI SÓ)
 </td>
 </tr>
 </table>
