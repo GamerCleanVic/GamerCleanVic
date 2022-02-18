@@ -16,7 +16,7 @@
 <a href="https://jottalpb.blogspot.com/p/donate.html" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/DonatesGH.png" /></a>
 </div><br />
 
-<div>
+<div align="justify">
 🔖 INCOMPETÊNCIAS
 - 📖 INFORMÁTICA BÁSICA WINDOWS E LINUX
 - 📚 DESIGN GRÁFICO (AVANÇADO)
