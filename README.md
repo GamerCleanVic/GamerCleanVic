@@ -30,42 +30,42 @@ INCOMPETÊNCIAS
 📖 INFORMÁTICA BÁSICA WINDOWS E LINUX
 </td>
 </tr>
-<tr>
+<tr align="center">
 <td>
 📚 DESIGN GRÁFICO (AVANÇADO)
 </td>
 </tr>
-<tr>
+<tr align="center">
 <td>
 📖 HTML (INTERMEDIÁRIO)
 </td>
 </tr>
-<tr>
+<tr align="center">
 <td>
 📖 CSS (INTERMEDIÁRIO)
 </td>
 </tr>
-<tr>
+<tr align="center">
 <td>
 📗 JAVASCRIPT (INICIANTE)
 </td>
 </tr>
-<tr>
+<tr align="center">
 <td>
 📗 PHP (INICIANTE)
 </td>
 </tr>
-<tr>
+<tr align="center">
 <td>
 📗 ALGORITMO, LÓGICA DE PROGRAMAÇÃO (A INICIAR)
 </td>
 </tr>
-<tr>
+<tr align="center">
 <td>
 📗 BANCO DE DADOS (A INICIAR)
 </td>
 </tr>
-<tr>
+<tr align="center">
 <td>
 📗 GIT / GITHUB (INICIANTE GUI SÓ)
 </td>
