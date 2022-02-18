@@ -16,10 +16,13 @@
 <a href="https://jottalpb.blogspot.com/p/donate.html" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/DonatesGH.png" /></a>
 </div><br />
 
+<div align="center">
 <table>
 <tr>
 <th>
+<h1>
 INCOMPETÊNCIAS
+</h1>
 </th>
 </tr>
 <tr>
@@ -68,3 +71,4 @@ INCOMPETÊNCIAS
 </td>
 </tr>
 </table>
+</div>
