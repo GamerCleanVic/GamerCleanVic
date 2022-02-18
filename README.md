@@ -74,3 +74,4 @@ INCOMPETÊNCIAS
 </table>
 </div>
 </div>
+[![GamerCleanVic GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerCleanVic)](https://github.com/GamerCleanVic/github-readme-stats)
