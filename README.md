@@ -17,10 +17,11 @@
 </div><br />
 
 <table>
+<tr>
 <th>
-<td>
 INCOMPETÊNCIAS
 </th>
+</tr>
 <tr>
 <td>
 📖 INFORMÁTICA BÁSICA WINDOWS E LINUX
