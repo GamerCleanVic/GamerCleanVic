@@ -33,7 +33,7 @@ INCOMPETÊNCIAS
 </tr>
 <tr align="justify">
 <td>
-📚 DESIGN GRÁFICO (INTERMEDIÁRIO)
+📖 DESIGN GRÁFICO (INTERMEDIÁRIO)
 </td>
 </tr>
 <tr align="justify">
@@ -48,12 +48,12 @@ INCOMPETÊNCIAS
 </tr>
 <tr align="justify">
 <td>
-📗 JAVASCRIPT (INICIANTE)
+📖 JAVASCRIPT (INICIANTE)
 </td>
 </tr>
 <tr align="justify">
 <td>
-📗 PHP (INICIANTE)
+📖 PHP (INICIANTE)
 </td>
 </tr>
 <tr align="justify">
