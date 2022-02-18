@@ -15,7 +15,8 @@
 <a href="https://jottalpb.blogspot.com/p/redes-sociais.html" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/RedesGH.png" /></a>
 <a href="https://jottalpb.blogspot.com/p/donate.html" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/DonatesGH.png" /></a>
 </div><br />
-
+🔖 INCOMPETÊNCIAS
+- 📖 INFORMÁTICA BÁSICA WINDOWS E LINUX
 - 📚 DESIGN GRÁFICO (AVANÇADO)
 - 📖 HTML (INTERMEDIÁRIO)
 - 📖 CSS (INTERMEDIÁRIO)
