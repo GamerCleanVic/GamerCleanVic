@@ -17,34 +17,51 @@
 </div><br />
 
 <table>
-<tr>
+<th>
 <td>
 INCOMPETÊNCIAS
-</td>
+</th>
+<tr>
 <td>
 📖 INFORMÁTICA BÁSICA WINDOWS E LINUX
 </td>
+</tr>
+<tr>
 <td>
 📚 DESIGN GRÁFICO (AVANÇADO)
 </td>
+</tr>
+<tr>
 <td>
 📖 HTML (INTERMEDIÁRIO)
 </td>
+</tr>
+<tr>
 <td>
 📖 CSS (INTERMEDIÁRIO)
 </td>
+</tr>
+<tr>
 <td>
 📗 JAVASCRIPT (INICIANTE)
 </td>
+</tr>
+<tr>
 <td>
 📗 PHP (INICIANTE)
 </td>
+</tr>
+<tr>
 <td>
 📗 ALGORITMO, LÓGICA DE PROGRAMAÇÃO (A INICIAR)
 </td>
+</tr>
+<tr>
 <td>
 📗 BANCO DE DADOS (A INICIAR)
 </td>
+</tr>
+<tr>
 <td>
 📗 GIT / GITHUB (INICIANTE GUI SÓ)
 </td>
