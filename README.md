@@ -81,7 +81,11 @@ INCOMPETÊNCIAS
 <h1>DESIGN GRÁFICO: EDIÇÃO DE UM WALLPAPER ARCH LINUX</h1>
 </th>
 </table>
+<table align="center" border="3px solid">
+<tr>
 <div align="center"><a href="https://www.twitch.tv/jottalpb" target="_blank" alt="Foto e Live link"><img src=https://raw.githubusercontent.com/GamerCleanVic/iconswpsofdistros/master/Arch%20Linux/ArchLand4kWideDark.png alt="Arch Art Design Gráfico" width="720px"></a></div>
+</tr>
+</table>
 
 <br /><br />
 
