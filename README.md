@@ -82,4 +82,4 @@ INCOMPETÊNCIAS
 
 
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svgurl?color=purple&label=Pergunte)](https://github.com/GamerCleanVic/GamerCleanVic)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg&&url?color=purple&label=Pergunte)](https://github.com/GamerCleanVic/GamerCleanVic)
