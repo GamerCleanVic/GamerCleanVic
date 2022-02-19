@@ -84,4 +84,9 @@ INCOMPETÊNCIAS
 
 </div>
 
-
+> SOBRE MIM
+>
+>      var String a = "Jonas";
+>      printf(a);
+>
+> {: .language-c++}
