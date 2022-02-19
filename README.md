@@ -66,10 +66,10 @@ INCOMPETÊNCIAS
 📖 GIT / GITHUB (INICIANTE GUI GH SÓ)
 </td>
 </tr>
-</table align="center">
+</table>
 </div>
 <br /><div align="center"><h2>  </h2></div>
-<table>
+<table align="center">
 <tr>
 <th>
 <h2>DESIGN GRÁFICO ARTE ARCH LINUX WALLPAPER</h2>
