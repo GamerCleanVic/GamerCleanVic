@@ -68,7 +68,6 @@ INCOMPETÊNCIAS
 </tr>
 </table>
 </div>
-<br /><div align="center"><h2>  </h2></div>
 <table align="center">
 <tr>
 <th>
