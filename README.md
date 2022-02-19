@@ -9,7 +9,7 @@
  
 </div>
  
-<br /><div align="center">
+<br /><div align="center"><a href="https://www.twitch.tv/jottalpb" style="text-decoration:none; color:#fff;">
 <table>
 <tr>
 <th align="center">
@@ -63,7 +63,7 @@ INCOMPETÊNCIAS
 📖 GIT / GITHUB (INICIANTE GUI GH SÓ)
 </td>
 </tr>
-</table><br /><br />
+</table></a><br /><br />
 </div>
 <table align="center">
 <tr>
