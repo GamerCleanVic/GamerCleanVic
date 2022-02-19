@@ -15,7 +15,7 @@
 <a href="https://www.youtube.com/channel/UCd52qMJ2L7jBWqrcxmqUiZg/videos" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/ytGH.png" /></a>
 <a href="https://jottalpb.blogspot.com/p/redes-sociais.html" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/RedesGH.png" /></a>
 <a href="https://jottalpb.blogspot.com/p/donate.html" target="_blank"><img src="https://raw.githubusercontent.com/GamerCleanVic/JottaLPB/main/DonatesGH.png" /></a>
-</div><br />
+</div><br /><br />
 
 <div align="center">
 <table>
