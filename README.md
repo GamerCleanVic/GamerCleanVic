@@ -1,4 +1,3 @@
-<body background-image: url('https://raw.githubusercontent.com/GamerCleanVic/iconswpsofdistros/master/Arch%20Linux/wp_ArchBlackGrey3840x2204.jpeg')></body>
 <h3 align="justify">OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, FRONTEND WEB, PHP E JAVASCRIPT. FUTURAMENTE PRETENDO ESTUDAR TAMBÉM BANCO DE DADOS, LÓGICA DE PROGRAMAÇÃO E ALGORITMOS COM PHP E JAVASCRIPT.</h3><br /> 
 <table>
 <tr>
@@ -8,7 +7,10 @@
 </tr>
 </table>
 
-<div style=body{background-image: url('https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg');}>
+<div style="body:{background-image: url('https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg');"}>
+ 
+ ![bg](https://raw.githubusercontent.com/GamerCleanVic/iconswpsofdistros/master/Arch%20Linux/wp_ArchBlackGrey3840x2204.jpeg)
+ 
 </div>
 <br />
 
