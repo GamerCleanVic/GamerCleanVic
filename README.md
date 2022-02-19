@@ -1,5 +1,5 @@
 <h3 align="justify"><a href="https://www.twitch.tv/jottalpb" style="text-decoration:none; color:#fff;">OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, FRONTEND WEB, PHP E JAVASCRIPT. FUTURAMENTE PRETENDO ESTUDAR TAMBÉM BANCO DE DADOS, LÓGICA DE PROGRAMAÇÃO E ALGORITMOS COM PHP E JAVASCRIPT.</a></h3><br /> 
-<div align="center"><table><tr><th><h3>VOCẼ PODE NOS ENCONTRAR NESSES CONTATOS SOCIAIS CLICANDO NOS BOTÕES ABAIXO</h3></th></tr></table></div>
+<div align="center"><a href="https://www.twitch.tv/jottalpb" style="text-decoration:none; color:#fff;"><table><tr><th><h3>VOCẼ PODE NOS ENCONTRAR NESSES CONTATOS SOCIAIS CLICANDO NOS BOTÕES ABAIXO</h3></th></tr></table></a></div>
 
 <br />
 
@@ -68,7 +68,7 @@ INCOMPETÊNCIAS
 <table align="center">
 <tr>
 <th>
-<h2>DESIGN GRÁFICO ARTE ARCH LINUX WALLPAPER</h2>
+<a href="https://www.twitch.tv/jottalpb" style="text-decoration:none; color:#fff;"><h2>DESIGN GRÁFICO ARTE ARCH LINUX WALLPAPER</h2></a>
 </tr>
 </th>
 </table>
