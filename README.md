@@ -71,11 +71,7 @@ INCOMPETÊNCIAS
 <table align="center">
 <tr>
 <th>
-```
- 
-DESIGN GRÁFICO ARTE ARCH LINUX WALLPAPER
- 
-```
+<h1>DESIGN GRÁFICO ARTE ARCH LINUX WALLPAPER</h1>
 </tr>
 </th>
 </table>
