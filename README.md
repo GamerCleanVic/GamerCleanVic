@@ -72,7 +72,7 @@ INCOMPETÊNCIAS
 </tr>
 </th>
 </table>
-<div align="center"><img src=https://raw.githubusercontent.com/GamerCleanVic/iconswpsofdistros/master/Arch%20Linux/ArchLand4kWideDark.png alt="Arch Art Design Gráfico" width="720px"></div><br /><br />
+<div align="center"><img src=https://raw.githubusercontent.com/GamerCleanVic/iconswpsofdistros/master/Arch%20Linux/ArchLand4kWideDark.png alt="Arch Art Design Gráfico" width="720px"><a href="https://www.twitch.tv/jottalpb" target="_blank" alt="Foto e Live link"></a></div><br /><br />
 
 <div align="center">
  
