@@ -1,4 +1,4 @@
-<body>background-image: url('https://raw.githubusercontent.com/GamerCleanVic/iconswpsofdistros/master/Arch%20Linux/wp_ArchBlackGrey3840x2204.jpeg');</body>
+<body background-image: url('https://raw.githubusercontent.com/GamerCleanVic/iconswpsofdistros/master/Arch%20Linux/wp_ArchBlackGrey3840x2204.jpeg')></body>
 <h3 align="justify">OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, FRONTEND WEB, PHP E JAVASCRIPT. FUTURAMENTE PRETENDO ESTUDAR TAMBÉM BANCO DE DADOS, LÓGICA DE PROGRAMAÇÃO E ALGORITMOS COM PHP E JAVASCRIPT.</h3><br /> 
 <table>
 <tr>
