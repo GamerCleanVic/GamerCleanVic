@@ -72,7 +72,9 @@ INCOMPETÊNCIAS
 <tr>
 <th>
 ```
+ 
 DESIGN GRÁFICO ARTE ARCH LINUX WALLPAPER
+ 
 ```
 </tr>
 </th>
