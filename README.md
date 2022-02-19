@@ -20,7 +20,7 @@
 </div>
  
 <br /><div align="center">
-<table>
+<table border="3px solid">
 <tr>
 <th align="center">
 <h1>
