@@ -85,4 +85,4 @@ INCOMPETÊNCIAS
 
 [![](https://img.shields.io/badge/Facebook-P%C3%A1gina-%234f0faf?label=Facebook&message=Página&color=%234f0faf&logo=github&logoColor=%234f0faf)](https://www.facebook.com/JOTTALPB)
 
-![Facebook followers](https://img.shields.io/facebook/followers/JOTTALPB?label=Facebook%20P%C3%A1gina&logoColor=%234f0faf&style=social)
+![Facebook followers](https://img.shields.io/badge/Facebook-P%C3%A1gina-%234f0faf?label=Facebook%20P%C3%A1gina&logoColor=%234f0faf&style=social)
