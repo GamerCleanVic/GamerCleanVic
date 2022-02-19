@@ -3,9 +3,9 @@
 <div>
 <table>
 <tr> 
-<th>
+<td>
  <h3 align="center">VOCẼ PODE NOS ENCONTRAR EM NOSSOS CONTATOS SOCIAIS CLICANDO NOS BOTÕES ABAIXO</h3> 
-</th>
+</td>
 <tr>
 </table>
 </div>
