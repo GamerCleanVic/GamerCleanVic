@@ -74,5 +74,6 @@ INCOMPETÊNCIAS
 </table>
 </div>
 </div>
+<div align="center"><h2>  </h2></div><br />
 <div align="center"><h2>ART ARCH LINUX WALLPAPER</h2></div>
 <div align="center"><img src=https://raw.githubusercontent.com/GamerCleanVic/iconswpsofdistros/master/Arch%20Linux/ArchLand4kWideDark.png alt="Arch Art Design Gráfico" width="720px"></div>
