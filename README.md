@@ -1,16 +1,12 @@
-<h3 align="justify"><a href="https://www.twitch.tv/jottalpb" style="text-decoration:none; color:#fff;">OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, FRONTEND WEB, PHP E JAVASCRIPT. FUTURAMENTE PRETENDO ESTUDAR TAMBÉM BANCO DE DADOS, LÓGICA DE PROGRAMAÇÃO E ALGORITMOS COM PHP E JAVASCRIPT.</a></h3><br /> 
-<div align="center"><a href="https://www.twitch.tv/jottalpb" style="text-decoration:none; color:#fff;"><table><tr><th><h3>VOCẼ PODE NOS ENCONTRAR NESSES CONTATOS SOCIAIS CLICANDO NOS BOTÕES ABAIXO</h3></th></tr></table></a></div>
-
-
 > SOBRE MIM
 >
->      OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, FRONTEND WEB, PHP E JAVASCRIPT. FUTURAMENTE PRETENDO ESTUDAR TAMBÉM BANCO DE DADOS, LÓGICA DE PROGRAMAÇÃO E ALGORITMOS COM PHP E JAVASCRIPT.
->      
+>     - OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, FRONTEND WEB, PHP E JAVASCRIPT.
+>     - FUTURAMENTE PRETENDO ESTUDAR TAMBÉM BANCO DE DADOS, LÓGICA DE PROGRAMAÇÃO E ALGORITMOS COM PHP E JAVASCRIPT.
 >
 
 <br />
 
-> SOBRE MIM
+> ONDE ME ENCONTRAR
 >
 >      VOCẼ PODE NOS ENCONTRAR NESSES CONTATOS SOCIAIS CLICANDO NOS BOTÕES ABAIXO
 >      
@@ -22,7 +18,7 @@
  
 </div>
  
-<br /><div align="center"><a href="https://www.twitch.tv/jottalpb" style="text-decoration:none; color:#fff;">
+<br /><div align="center">
 <table>
 <tr>
 <th align="center">
@@ -76,9 +72,9 @@ INCOMPETÊNCIAS
 📖 GIT / GITHUB (INICIANTE GUI GH SÓ)
 </td>
 </tr>
-</table></a><br /><br />
+</table><br /><br />
 </div>
-<a href="https://www.twitch.tv/jottalpb" style="text-decoration:none; color:#fff;">
+
 <table align="center">
 <tr>
 <th>
@@ -86,7 +82,7 @@ INCOMPETÊNCIAS
 </tr>
 </th>
 </table>
-</a>
+
 <div align="center"><a href="https://www.twitch.tv/jottalpb" target="_blank" alt="Foto e Live link"><img src=https://raw.githubusercontent.com/GamerCleanVic/iconswpsofdistros/master/Arch%20Linux/ArchLand4kWideDark.png alt="Arch Art Design Gráfico" width="720px"></a></div><br /><br />
 
 <div align="center">
