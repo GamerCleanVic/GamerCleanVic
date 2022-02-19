@@ -77,3 +77,5 @@ INCOMPETÊNCIAS
 <br /><div align="center"><h2>  </h2></div>
 <div align="center"><h2>DESIGN GRÁFICO ARTE ARCH LINUX WALLPAPER</h2></div>
 <div align="center"><img src=https://raw.githubusercontent.com/GamerCleanVic/iconswpsofdistros/master/Arch%20Linux/ArchLand4kWideDark.png alt="Arch Art Design Gráfico" width="720px"></div>
+
+![Twitter URL](https://img.shields.io/twitter/url?color=purple&label=JottaLPB&logoColor=%234f0faf&style=social&url=https%3A%2F%2Ftwitter.com%2FJottaLPB)
