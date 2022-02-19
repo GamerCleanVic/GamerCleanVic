@@ -65,13 +65,15 @@ INCOMPETÊNCIAS
 </tr>
 </table></a><br /><br />
 </div>
+<a href="https://www.twitch.tv/jottalpb" style="text-decoration:none; color:#fff;">
 <table align="center">
 <tr>
 <th>
-<a href="https://www.twitch.tv/jottalpb" style="text-decoration:none; color:#fff;"><h2>DESIGN GRÁFICO ARTE ARCH LINUX WALLPAPER</h2></a>
+<h2>DESIGN GRÁFICO ARTE ARCH LINUX WALLPAPER</h2>
 </tr>
 </th>
 </table>
+</a>
 <div align="center"><a href="https://www.twitch.tv/jottalpb" target="_blank" alt="Foto e Live link"><img src=https://raw.githubusercontent.com/GamerCleanVic/iconswpsofdistros/master/Arch%20Linux/ArchLand4kWideDark.png alt="Arch Art Design Gráfico" width="720px"></a></div><br /><br />
 
 <div align="center">
