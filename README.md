@@ -6,12 +6,6 @@
 </th>
 </tr>
 </table>
-
-<div style="body:{background-image: url('https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg');"}>
- 
- <!-- ![bg](https://raw.githubusercontent.com/GamerCleanVic/iconswpsofdistros/master/Arch%20Linux/wp_ArchBlackGrey3840x2204.jpeg) -->
- 
- ![Alt text](https://raw.githubusercontent.com/GamerCleanVic/iconswpsofdistros/master/Arch%20Linux/wp_ArchBlackGrey3840x2204.jpeg "ARCH")
  
 </div>
 <br />
