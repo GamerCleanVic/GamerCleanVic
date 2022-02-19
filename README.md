@@ -76,7 +76,7 @@ INCOMPETÊNCIAS
 </table><br /><br />
 </div>
 
-<table align="center">
+<table align="center" border="3px solid">
 <th>
 <h1>DESIGN GRÁFICO: EDIÇÃO DE UM WALLPAPER ARCH LINUX</h1>
 </th>
