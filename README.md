@@ -75,8 +75,8 @@ INCOMPETÊNCIAS
 📖 GIT / GITHUB (INICIANTE GUI GH SÓ)
 </td>
 </tr>
-</table><br /><br />
-</div>
+</table>
+</div><br />
 
 <hr>
 
