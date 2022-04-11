@@ -13,7 +13,7 @@
 >      
 >
 
-<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=buefy" />  
+<br><div align="center"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=synthwave" /></div><br>  
 
 <div align="center">
  
