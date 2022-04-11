@@ -13,7 +13,7 @@
 >      
 >
 
-<br><div align="center"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=discord_old_blurple" /></div><br>  
+<br><div align="center"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=nightowl" /></div><br>  
 
 <div align="center">
  
