@@ -28,7 +28,7 @@
 <tr>
 <th align="center">
 <h1>
-INCOMPETÊNCIAS
+COMPETÊNCIAS
 </h1>
 </th>
 </tr>
