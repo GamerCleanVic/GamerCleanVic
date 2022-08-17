@@ -64,7 +64,7 @@ COMPETÊNCIAS
 </tr>
 <tr align="left">
 <td>
-📗 ALGORITMO, LÓGICA DE PROGRAMAÇÃO (INTERMEDIÁRIO)
+📖 ALGORITMO, LÓGICA DE PROGRAMAÇÃO (INTERMEDIÁRIO)
 </td>
 </tr>
 <tr align="left">
