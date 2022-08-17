@@ -64,7 +64,7 @@ COMPETÊNCIAS
 </tr>
 <tr align="left">
 <td>
-📗 ALGORITMO, LÓGICA DE PROGRAMAÇÃO (A INICIAR)
+📗 ALGORITMO, LÓGICA DE PROGRAMAÇÃO (INTERMEDIÁRIO)
 </td>
 </tr>
 <tr align="left">
@@ -74,7 +74,7 @@ COMPETÊNCIAS
 </tr>
 <tr align="left">
 <td>
-📖 GIT / GITHUB (INICIANTE GUI GH SÓ)
+📖 GIT / GITHUB (INTERMEDIÁRIO)
 </td>
 </tr>
 </table>
