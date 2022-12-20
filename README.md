@@ -7,12 +7,6 @@
 
 <br />
 
-> ONDE ME ENCONTRAR
->
->      VOCẼ PODE ME ENCONTRAR NESSES CONTATOS SOCIAIS CLICANDO NOS BOTÕES ABAIXO
->      
->
-
 <br><div align="center"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=material-palenight" /></div><br>  
 
 <div align="center">
