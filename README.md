@@ -10,7 +10,7 @@
 
 <div align="center">
  
-[![forks - GamerCleanVic](https://img.shields.io/github/forks/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) [![stars - GamerCleanVic](https://img.shields.io/github/stars/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) [![Maintenance](https://img.shields.io/maintenance/yes/2022?color=%234f0faf&label=maintened&logo=github&logoColor=%23ffffff)]([#](https://github.com/GamerCleanVic)) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[page.id](GamerCleanVic))
+[![forks - GamerCleanVic](https://img.shields.io/github/forks/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) [![stars - GamerCleanVic](https://img.shields.io/github/stars/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) [![Maintenance](https://img.shields.io/maintenance/yes/2023?color=%234f0faf&label=maintened&logo=github&logoColor=%23ffffff)]([#](https://github.com/GamerCleanVic)) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[page.id](GamerCleanVic))
  
 </div>
 
@@ -69,6 +69,12 @@ COMPETÊNCIAS
 <td>
 📖 GIT / GITHUB (INTERMEDIÁRIO)
 </td>
+<td>
+📖 RUBY (INICIANTE)
+</td>
+<td>
+📖 JAVA (INICIANTE)
+</td>
 </tr>
 </table>
 </div><br />
@@ -89,6 +95,5 @@ COMPETÊNCIAS
 
 <div align="center">
  
-[![forks - GamerCleanVic](https://img.shields.io/github/forks/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) [![stars - GamerCleanVic](https://img.shields.io/github/stars/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) [![Maintenance](https://img.shields.io/maintenance/yes/2022?color=%234f0faf&label=maintened&logo=github&logoColor=%23ffffff)]([#](https://github.com/GamerCleanVic)) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[page.id](GamerCleanVic))
-
+[![forks - GamerCleanVic](https://img.shields.io/github/forks/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) [![stars - GamerCleanVic](https://img.shields.io/github/stars/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) [![Maintenance](https://img.shields.io/maintenance/yes/2023?color=%234f0faf&label=maintened&logo=github&logoColor=%23ffffff)]([#](https://github.com/GamerCleanVic)) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[page.id](GamerCleanVic))
 </div>
