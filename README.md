@@ -44,9 +44,13 @@ COMPETÊNCIAS
 <td>
 📖 GIT / GITHUB (INTERMEDIÁRIO)
 </td>
+</tr>
+<tr>
 <td>
 📖 RUBY (INICIANTE)
 </td>
+</tr>
+<tr>
 <td>
 📖 JAVA (INICIANTE)
 </td>
