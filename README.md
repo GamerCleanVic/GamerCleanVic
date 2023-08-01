@@ -45,12 +45,12 @@ COMPETÊNCIAS
 📖 GIT / GITHUB (INTERMEDIÁRIO)
 </td>
 </tr>
-<tr>
+<tr align="left">
 <td>
 📖 RUBY (INICIANTE)
 </td>
 </tr>
-<tr>
+<tr align="left">
 <td>
 📖 JAVA (INICIANTE)
 </td>
