@@ -27,22 +27,7 @@ COMPETÊNCIAS
 </tr>
 <tr align="left">
 <td>
-📖 INFORMÁTICA BÁSICA WINDOWS E LINUX
-</td>
-</tr>
-<tr align="left">
-<td>
 📖 DESIGN GRÁFICO (INTERMEDIÁRIO)
-</td>
-</tr>
-<tr align="left">
-<td>
-📖 HTML (INTERMEDIÁRIO)
-</td>
-</tr>
-<tr align="left">
-<td>
-📖 CSS (INTERMEDIÁRIO)
 </td>
 </tr>
 <tr align="left">
@@ -50,19 +35,9 @@ COMPETÊNCIAS
 📖 JAVASCRIPT (INICIANTE)
 </td>
 </tr>
-<tr align="justify">
-<td>
-📖 PHP (INICIANTE)
-</td>
-</tr>
 <tr align="left">
 <td>
-📖 ALGORITMO, LÓGICA DE PROGRAMAÇÃO (INTERMEDIÁRIO)
-</td>
-</tr>
-<tr align="left">
-<td>
-📗 BANCO DE DADOS (A INICIAR)
+📖 BANCO DE DADOS (INICIANTE)
 </td>
 </tr>
 <tr align="left">
