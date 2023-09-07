@@ -54,6 +54,11 @@ COMPETÊNCIAS
 📖 JAVA (INICIANTE)
 </td>
 </tr>
+<tr align="left">
+<td>
+📖 NODE.JS (INICIANTE)
+</td>
+</tr>
 </table>
 </div><br />
 
