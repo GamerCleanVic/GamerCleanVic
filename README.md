@@ -1,6 +1,6 @@
 > SOBRE MIM
 >
->     OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, NODE.JS E PHP.
+>     OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO E JAVA.
 >
 
 <br />
@@ -46,12 +46,7 @@ COMPETÊNCIAS
 </tr>
 <tr align="left">
 <td>
-📖 RUBY (INICIANTE)
-</td>
-</tr>
-<tr align="left">
-<td>
-📖 PHP (INICIANTE)
+📖 JAVA (INICIANTE)
 </td>
 </tr>
 <tr align="left">
