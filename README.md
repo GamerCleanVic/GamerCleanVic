@@ -46,7 +46,7 @@ COMPETÊNCIAS
 </tr>
 <tr align="left">
 <td>
-📖 JAVA (INICIANTE)
+📖 PHP (INICIANTE)
 </td>
 </tr>
 <tr align="left">
