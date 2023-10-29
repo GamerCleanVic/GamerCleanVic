@@ -1,6 +1,6 @@
 > SOBRE MIM
 >
->     OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, PHP, VUE.JS/OUTROS FRAMEWORKS JS.
+>     OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, PHP E NODE.JS.
 >
 
 <br />
@@ -51,7 +51,7 @@ COMPETÊNCIAS
 </tr>
 <tr align="left">
 <td>
-📖 VUE.JS (INICIANTE)
+📖 NODE.JS (INICIANTE)
 </td>
 </tr>
 </table>
