@@ -51,7 +51,7 @@ COMPETÊNCIAS
 </tr>
 <tr align="left">
 <td>
-📖 NODE.JS (INICIANTE)
+📖 VUE.JS (INICIANTE)
 </td>
 </tr>
 </table>
