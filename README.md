@@ -1,6 +1,6 @@
 > SOBRE MIM
 >
->     OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO E JAVA.
+>     OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, PHP E VUE.JS.
 >
 
 <br />
@@ -40,7 +40,12 @@ COMPETÊNCIAS
 </tr>
 <tr align="left">
 <td>
-📖 JAVA (INICIANTE)
+📖 PHP (INICIANTE)
+</td>
+</tr>
+<tr align="left">
+<td>
+📖 VUE.JS (INICIANTE)
 </td>
 </tr>
 </table>
