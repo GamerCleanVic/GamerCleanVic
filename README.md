@@ -53,7 +53,6 @@ COMPETÊNCIAS
 📖 REACT (INICIANTE)
 </td>
 </tr>
-</table>
 <tr align="left">
 <td>
 📖 NEXT.JS (INICIANTE)
@@ -64,6 +63,7 @@ COMPETÊNCIAS
 📖 DOCKER/CONTAINERS (INICIANTE)
 </td>
 </tr>
+</table>
 </div><br />
 
 <hr>
