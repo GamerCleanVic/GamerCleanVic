@@ -1,6 +1,6 @@
 > SOBRE MIM
 >
->     OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO E JAVA.
+>     OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, PHP/LARAVEL E FRAMEWORKS JS.
 >
 
 <br />
@@ -40,10 +40,30 @@ COMPETÊNCIAS
 </tr>
 <tr align="left">
 <td>
-📖 JAVA (INICIANTE)
+📖 PHP (INICIANTE)
+</td>
+</tr>
+<tr align="left">
+<td>
+📖 LARAVEL (INICIANTE)
+</td>
+</tr>
+<tr align="left">
+<td>
+📖 REACT (INICIANTE)
 </td>
 </tr>
 </table>
+<tr align="left">
+<td>
+📖 NEXT.JS (INICIANTE)
+</td>
+</tr>
+<tr align="left">
+<td>
+📖 DOCKER/CONTAINERS (INICIANTE)
+</td>
+</tr>
 </div><br />
 
 <hr>
