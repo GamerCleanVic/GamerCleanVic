@@ -1,6 +1,6 @@
 > SOBRE MIM
 >
->     OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO E JAVA.
+>     OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO E RUST.
 >
 
 <br />
@@ -40,7 +40,7 @@ COMPETÊNCIAS
 </tr>
 <tr align="left">
 <td>
-📖 JAVA (INICIANTE)
+📖 RUST (INICIANTE)
 </td>
 </tr>
 </table>
