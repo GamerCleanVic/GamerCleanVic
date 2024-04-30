@@ -40,7 +40,7 @@ COMPETÊNCIAS
 </tr>
 <tr align="left">
 <td>
-📖 RUST (INICIANTE)
+📖 JAVA (INICIANTE)
 </td>
 </tr>
 </table>
