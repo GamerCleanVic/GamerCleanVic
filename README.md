@@ -40,12 +40,12 @@ COMPETÊNCIAS
 </tr>
 <tr align="left">
 <td>
-📖 PHP(INICIANTE)
+📖 PHP (INICIANTE)
 </td>
 </tr>
 <tr align="left">
 <td>
-📖 JAVASCRIPT(INICIANTE)
+📖 JAVASCRIPT (INICIANTE)
 </td>
 </tr>
 </table>
