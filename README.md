@@ -1,6 +1,6 @@
 > SOBRE MIM
 >
->     OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, PHP E JAVASCRIPT.
+>     OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, E JAVA.
 >
 
 <br />
@@ -40,12 +40,7 @@ COMPETÊNCIAS
 </tr>
 <tr align="left">
 <td>
-📖 PHP (INICIANTE)
-</td>
-</tr>
-<tr align="left">
-<td>
-📖 JAVASCRIPT (INICIANTE)
+📖 JAVA (INICIANTE)
 </td>
 </tr>
 </table>
