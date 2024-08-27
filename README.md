@@ -1,6 +1,6 @@
 > SOBRE MIM
 >
->     OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, PHP E FRAMEWORKS JS.
+>     OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, JAVA E FRAMEWORKS JS.
 >
 
 <br />
@@ -40,7 +40,7 @@ COMPETÊNCIAS
 </tr>
 <tr align="left">
 <td>
-📖 PHP (INICIANTE)
+📖 JAVA (INICIANTE)
 </td>
 </tr>
 <tr align="left">
