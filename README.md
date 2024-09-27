@@ -1,7 +1,7 @@
 > SOBRE MIM
 >
 > ```php
-> echo 'OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, JAVA E FRAMEWORKS JS.';
+> echo 'OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, JAVA, PHP E FRAMEWORKS JS.';
 >
 > ```
 > ---------
@@ -17,41 +17,13 @@
 
 <hr>
 
-<br /><div align="center">
-<table border="3px solid">
-<tr>
-<th align="center">
-<h1>
-COMPETÊNCIAS
-</h1>
-</th>
-</tr>
-<tr align="left">
-<td>
-📖 DESIGN GRÁFICO (INTERMEDIÁRIO)
-</td>
-</tr>
-<td>
-📖 BANCO DE DADOS (INICIANTE)
-</td>
-</tr>
-<tr align="left">
-<td>
-📖 GIT / GITHUB (INTERMEDIÁRIO)
-</td>
-</tr>
-<tr align="left">
-<td>
-📖 JAVA (INICIANTE)
-</td>
-</tr>
-<tr align="left">
-<td>
-📖 FRAMEWORKS JS (INICIANTE)
-</td>
-</tr>
-</table>
-</div><br />
+> # COMPETÊNCIAS
+> 📖 DESIGN GRÁFICO (INTERMEDIÁRIO) <br>
+> 📖 BANCO DE DADOS (INICIANTE)<br>
+> 📖 GIT / GITHUB (INTERMEDIÁRIO)<br>
+> 📖 JAVA (INICIANTE)<br>
+> 📖 FRAMEWORKS JS (INICIANTE)
+------
 
 <hr>
 
