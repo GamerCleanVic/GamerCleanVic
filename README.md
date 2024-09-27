@@ -1,20 +1,22 @@
 > SOBRE MIM
 >
->     OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, JAVA E FRAMEWORKS JS.
+> ```php
+> echo OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, JAVA E FRAMEWORKS JS.
 >
+> ```
+> ---------
 
-<br />
-
-<br><div align="center"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=material-palenight" /></div><br>  
+<br><br>
+<div align="center"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=material-palenight" /></div><br>
 
 <div align="center">
- 
+
 [![forks - GamerCleanVic](https://img.shields.io/github/forks/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) [![stars - GamerCleanVic](https://img.shields.io/github/stars/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) [![Maintenance](https://img.shields.io/maintenance/yes/2024?color=%234f0faf&label=maintened&logo=github&logoColor=%23ffffff)]([#](https://github.com/GamerCleanVic)) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[page.id](GamerCleanVic))
- 
+
 </div>
 
 <hr>
- 
+
 <br /><div align="center">
 <table border="3px solid">
 <tr>
@@ -66,6 +68,6 @@ COMPETÊNCIAS
 <br />
 
 <div align="center">
- 
+
 [![forks - GamerCleanVic](https://img.shields.io/github/forks/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) [![stars - GamerCleanVic](https://img.shields.io/github/stars/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) [![Maintenance](https://img.shields.io/maintenance/yes/2024?color=%234f0faf&label=maintened&logo=github&logoColor=%23ffffff)]([#](https://github.com/GamerCleanVic)) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[page.id](GamerCleanVic))
 </div>
