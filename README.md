@@ -20,8 +20,8 @@
 > # COMPETÊNCIAS
 ```python
 > 📖  print "DESIGN GRÁFICO (INTERMEDIÁRIO)" ```<br>
-```sql
-> 📖  SELECT STATUS FROM USER_SQL; "BANCO DE DADOS (INICIANTE)" ```<br>
+```php
+> 📖  echo $statuSQL = sql_query($status); "BANCO DE DADOS (INICIANTE)"; ```<br>
 > 📖 GIT / GITHUB (INTERMEDIÁRIO)<br>
 > 📖 JAVA (INICIANTE)<br>
 > 📖 FRAMEWORKS JS (INICIANTE)
