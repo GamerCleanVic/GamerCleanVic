@@ -32,7 +32,10 @@
 > ```
 > ```javascript
 > 📖 console.log('FRAMEWORKS JS (INICIANTE)');
->
+>```
+> ```php
+> 📖 echo "PHP (INICIANTE)";
+>```
 ------
 <table align="center" border="3px solid">
 <th>
