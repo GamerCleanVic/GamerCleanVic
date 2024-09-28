@@ -22,7 +22,7 @@
 > 📖 print "DESIGN GRÁFICO (INTERMEDIÁRIO)"
 > ```
 > ```php
-> 📖  echo $statuSQL = sql_query($status); 'BANCO DE DADOS (INICIANTE)'
+> 📖 echo $statuSQL = sql_query($status); 'BANCO DE DADOS (INICIANTE)'
 > ```
 > ```git
 > 📖 git commit -m "GIT / GITHUB (INTERMEDIÁRIO)"
