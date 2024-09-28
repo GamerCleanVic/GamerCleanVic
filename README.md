@@ -22,13 +22,13 @@
 > 📖 print "DESIGN GRÁFICO (INTERMEDIÁRIO)"
 > ```
 > ```php
-> 📖  echo $statuSQL = sql_query($status); 'BANCO DE DADO (INICIANTE)'
+> 📖  echo $statuSQL = sql_query($status); 'BANCO DE DADOS (INICIANTE)'
 > ```
 > ```git
-> 📖 git push GIT / GITHUB (INTERMEDIÁRIO)
+> 📖 git commit -m "GIT / GITHUB (INTERMEDIÁRIO)"
 > ```
 > ```java
-> 📖 System.out.println('JAVA (INICIANTE)');
+> 📖 System.out.print('JAVA (INICIANTE)');
 > ```
 > ```javascript
 > 📖 console.log('FRAMEWORKS JS (INICIANTE)');
