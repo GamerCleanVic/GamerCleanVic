@@ -15,20 +15,25 @@
 
 </div>
 
-<hr>
+<hr />
 
 > # COMPETÊNCIAS
-```python
-> 📖  print "DESIGN GRÁFICO (INTERMEDIÁRIO)" ```<br>
-```php
-> 📖  echo $statuSQL = sql_query($status); "BANCO DE DADOS (INICIANTE)"; ```<br>
-> 📖 GIT / GITHUB (INTERMEDIÁRIO)<br>
-> 📖 JAVA (INICIANTE)<br>
-> 📖 FRAMEWORKS JS (INICIANTE)
+> ```python
+> 📖 print "DESIGN GRÁFICO (INTERMEDIÁRIO)"
+> ```
+> ```php
+> 📖  echo $statuSQL = sql_query($status); 'BANCO DE DADO (INICIANTE)'
+> ```
+> ```git
+> 📖 git push GIT / GITHUB (INTERMEDIÁRIO)
+> ```
+> ```java
+> 📖 System.out.println('JAVA (INICIANTE)');
+> ```
+> ```javascript
+> 📖 console.log('FRAMEWORKS JS (INICIANTE)');
+>
 ------
-
-<hr>
-
 <table align="center" border="3px solid">
 <th>
 <h1>DESIGN GRÁFICO: EDIÇÃO DE UM WALLPAPER ARCH LINUX</h1>
