@@ -1,3 +1,4 @@
+# SOBRE MIM
 <div 
 style="
 	border-left: solid 3px #FF67E7;
@@ -7,11 +8,13 @@ style="
 	border-bottom-left-radius: 5px;
 "
 >
-# SOBRE MIM
 
 ```php
+
 echo 'OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, JAVA, PHP E JS.';
+
 ```
+
 </div>
 
 <br><br>
@@ -24,7 +27,9 @@ echo 'OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, JAVA, PHP E JS.';
 	border-top-left-radius: 5px;
 "
 >
+	
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=material-palenight" />
+
 </div><br>
 
 <div
@@ -45,5 +50,3 @@ echo 'OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, JAVA, PHP E JS.';
 [![forks - GamerCleanVic](https://img.shields.io/github/forks/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) [![stars - GamerCleanVic](https://img.shields.io/github/stars/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) [![Maintenance](https://img.shields.io/maintenance/yes/2024?color=%234f0faf&label=maintened&logo=github&logoColor=%23ffffff)]([#](https://github.com/GamerCleanVic)) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[page.id](GamerCleanVic))
 
 </div>
-
-------
