@@ -3,15 +3,17 @@
 > ```php
 > echo 'OLÁ, CHAMO-ME JONAS, ESTUDO DESIGN GRÁFICO, JAVA, PHP E JS.';
 > ```
-> 
--------
+>
+
+<br />
+
 > 
 > 
 > 
 > ![alt](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=material-palenight)
 > 
 > 
--------
+> <br />
 > 
 > 
 > 
