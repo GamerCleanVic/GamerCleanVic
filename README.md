@@ -1,9 +1,7 @@
-<style>
-  table * {
+table * {
    white-space: normal!important;
    }
 table td { background-image: none!important } ;
-</style>
 > 
 > # SOBRE MIM
 > ```php
@@ -20,10 +18,6 @@ table td { background-image: none!important } ;
 | LANGS BY REPO |
 | ------------- |
 | ![Langs Repos](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GamerCleanVic&theme=tokyonight&exclude=CSS,html,blade,typescript) |
-
-$ cat custom.css
-td, th{ border: 10px solid rgb(0,0,50)}
-$ markdown-pdf --css-path='custom.css' example.md
 
 > ## SYSTEMS STILL TO BE USED
 > 
