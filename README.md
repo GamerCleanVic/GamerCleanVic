@@ -6,8 +6,9 @@
 >
 <br />
 
+<html style="border: none;"></html>
 
-| TOP LANGS | LATEST |
+| class='classe1' TOP LANGS | LATEST |
 | --------- | ------ |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=tokyonight&hide=css,html,javascript,ruby,blade,rust,go,hack,c) | ![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight) |
 <!--- ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerCleanVic&show_icons=true&theme=tokyonight) --->
@@ -43,4 +44,3 @@
 > ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[page.id](GamerCleanVic))
 > 
 > 
-<html style="border: none;"></html>
