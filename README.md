@@ -16,10 +16,10 @@
 </th>
 </tr>
 <tr>
-<td>
+<td markdown=1>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=tokyonight&hide=css,html,javascript,ruby,blade,rust,go,hack,c)
 </td>
-<td>
+<td markdown=1>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight)
 </td>
 </tr>
