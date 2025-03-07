@@ -42,6 +42,4 @@
 > 
 > 
 
-td, th{
-  border: none !important;
-}
+<font style="td, th{border: none !important;}"></font>
