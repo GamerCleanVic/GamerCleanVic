@@ -6,19 +6,23 @@
 >
 <br />
 
-<div style="flex; flex-row; justify-around; center; ">
-<div>
+<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
+<div style="display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
 <h3>TOP LANGS</h3>
+<div>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=tokyonight&hide=css,html,javascript,ruby,blade,rust,go,hack,c)
 
 </div>
+</div>
 
+<div style="display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
+<h3> LATEST </h3>
 <div>
-<h3> LATEST </h3></div>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight)
 
+</div>
 </div>
 </div>
 <!--- ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerCleanVic&show_icons=true&theme=tokyonight) --->
