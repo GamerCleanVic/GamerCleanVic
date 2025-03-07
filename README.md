@@ -6,19 +6,6 @@
 >
 <br />
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
-}
-</style>
-
 | TOP LANGS | LATEST |
 | --------- | ------ |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=tokyonight&hide=css,html,javascript,ruby,blade,rust,go,hack,c) | ![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight) |
