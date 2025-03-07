@@ -1,7 +1,3 @@
-table * {
-   white-space: normal!important;
-   }
-table td { background-image: none!important } ;
 > 
 > # SOBRE MIM
 > ```php
@@ -9,6 +5,7 @@ table td { background-image: none!important } ;
 > ```
 >
 <br />
+<div>
 
 | TOP LANGS | LATEST |
 | --------- | ------ |
@@ -24,6 +21,7 @@ table td { background-image: none!important } ;
 > ![Linux](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white&theme=tokyonight)
 > ![Linux](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&theme=tokyonight)
 >
+</div>
 
 > ## SYSTEMS ALREADY USED
 >
