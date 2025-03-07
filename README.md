@@ -17,7 +17,7 @@
 > [![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight)](https://git.io/streak-stats)
 >
 
-> http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={GamerCleanVic}&theme={tokyonight}&exclude={html}&exclude={css}&exclude={blade}&exclude={typescript}
+> http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GamerCleanVic&theme={tokyonight}&exclude=html, css, blade, typescript
 > 
 > <br />
 > 
