@@ -42,4 +42,4 @@
 > 
 > 
 
-border: 0;
+td, th{border: 0;}
