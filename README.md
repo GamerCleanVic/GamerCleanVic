@@ -9,10 +9,10 @@
 <table>
 <tr>
 <th>
-> ## TOP LANGS
+TOP LANGS
 </th>
 <th>
-> ## LATEST
+LATEST
 </th>
 </tr>
 <tr>
