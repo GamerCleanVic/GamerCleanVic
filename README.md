@@ -15,6 +15,9 @@
 <!--- ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerCleanVic&show_icons=true&theme=tokyonight) --->
 >
 > [![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight)](https://git.io/streak-stats)
+>
+
+> <img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 > 
 > <br />
 > 
