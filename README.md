@@ -6,7 +6,7 @@
 >
 <br />
 
-td, th{ border: 1px solid rgb(0,0,50)}
+td, th{ border: 10px solid rgb(0,0,50)}
 
 | TOP LANGS | LATEST |
 | --------- | ------ |
