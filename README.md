@@ -15,24 +15,13 @@
 | :-------------: |
 | ![Langs Repos](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GamerCleanVic&theme=tokyonight&exclude=CSS,html,blade,typescript) |
 
-> ## SYSTEMS STILL TO BE USED
-> 
-> ![Linux](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white&theme=tokyonight)
-> ![Linux](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&theme=tokyonight)
->
+| STILL TO BE USED SYSTEMS |
+| :---: | 
+| ![Linux](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white&theme=tokyonight) ![Linux](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&theme=tokyonight)
 
-> ## SYSTEMS ALREADY USED
->
-> ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&theme=tokyonight)
-> ![Linux](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&theme=tokyonight)
-> ![Linux](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white&theme=tokyonight)
-> ![Linux](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white&theme=tokyonight)
-> ![Linux](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white&theme=tokyonight)
-> ![Linux](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&theme=tokyonight)
-> ![Linux](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&theme=tokyonight)
-> ![Linux](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white&theme=tokyonight)
-> ![Linux](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white&theme=tokyonight)
-> 
+| ALREADY USED SYSTEMS |
+| : --- : |
+| ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&theme=tokyonight) ![Linux](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&theme=tokyonight) ![Linux](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white&theme=tokyonight) ![Linux](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white&theme=tokyonight) ![Linux](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white&theme=tokyonight) ![Linux](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&theme=tokyonight) ![Linux](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&theme=tokyonight) ![Linux](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white&theme=tokyonight) ![Linux](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white&theme=tokyonight) | 
 
 > 
 > [![forks - GamerCleanVic](https://img.shields.io/github/forks/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic))
