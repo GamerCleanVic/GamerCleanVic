@@ -6,10 +6,6 @@
 >
 <br />
 
-<style>
-td, th{
-  border: none !important;
-}
 
 | TOP LANGS | LATEST |
 | --------- | ------ |
@@ -20,7 +16,6 @@ td, th{
 | ------------- | 
 | ![Langs Repos](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GamerCleanVic&theme=tokyonight&exclude=CSS,html,blade,typescript) |
 
-</style>
 
 > ## SYSTEMS STILL TO BE USED
 > 
