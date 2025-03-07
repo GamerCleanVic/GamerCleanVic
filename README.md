@@ -11,7 +11,8 @@
 > 
 > 
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=material-palenight&hide=css,html,javascript,ruby,blade,rust,go,hack,c)
-> 
+>
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/GamerCleanVic/GamerCleanVic))
 > 
 > <br />
 > 
