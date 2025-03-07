@@ -6,7 +6,7 @@
 >
 <br />
 
-<style style="border: solid 2px rgb(0,0,0,0);"></style>
+<style>td, th{border: solid 2px rgb(0,0,0,0)}</style>
 
 | TOP LANGS | LATEST |
 | --------- | ------ |
