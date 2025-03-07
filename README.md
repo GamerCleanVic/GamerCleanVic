@@ -6,7 +6,18 @@
 >
 <br />
 
-<style>td, th{border: solid 2px rgb(0,0,0,0)}</style>
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>
 
 | TOP LANGS | LATEST |
 | --------- | ------ |
