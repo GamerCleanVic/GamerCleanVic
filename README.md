@@ -1,3 +1,9 @@
+<style>
+  table * {
+   white-space: normal!important;
+   }
+table td { background-image: none!important } ;
+</style>
 > 
 > # SOBRE MIM
 > ```php
@@ -5,13 +11,6 @@
 > ```
 >
 <br />
-
-<style>
-  table * {
-   white-space: normal!important;
-   }
-table td { background-image: none!important } ;
-</style>
 
 | TOP LANGS | LATEST |
 | --------- | ------ |
