@@ -8,15 +8,26 @@
 
 <table>
 <tr>
+<td>
 <th>TÍTULO1</th>
-<td>1</td>
-<td>2</td>
-<tr>
-<tr>
+1
+</td>
+<td>
 <th>TÍTULO2</th>
-<td>3</td>
-<td>4</td>
+2
+</td>
+</tr>
+
 <tr>
+<td>
+<th>TÍTULO3</th>
+3
+</td>
+<td>
+<th>TÍTULO4</th>
+4
+</td>
+</tr>
 </table>
 
 > ## TOP LANGS 
