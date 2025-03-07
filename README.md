@@ -43,12 +43,4 @@
 > ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[page.id](GamerCleanVic))
 > 
 > 
-<html>
-<head>
-<style>
-table{
-  border: none;
-}
-<style>
-</head>
-</html>
+<html style="border: none;"></html>
