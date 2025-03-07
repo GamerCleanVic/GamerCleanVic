@@ -4,7 +4,6 @@
 > echo 'OLÁ, CHAMO-ME JONAS, ESTUDANTE E ENTUSIASTA EM LINUX, JAVA, PHP E JAVASCRIPT.';
 > ```
 >
-
 <br />
 
 > 
@@ -19,7 +18,7 @@
 > 
 > <br />
 > 
- 
+>
 > 
 > [![forks - GamerCleanVic](https://img.shields.io/github/forks/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic))
 > [![stars - GamerCleanVic](https://img.shields.io/github/stars/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) 
