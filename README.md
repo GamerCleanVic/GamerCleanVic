@@ -8,28 +8,24 @@
 
 <table>
 <tr>
-<th>TÍTULO1</th>
-<th>TÍTULO2</th>
+<th>
+> ## TOP LANGS
+</th>
+<th>
+> ## LATEST
+</th>
 </tr>
 <tr>
 <td>
-1
+> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=tokyonight&hide=css,html,javascript,ruby,blade,rust,go,hack,c)
 </td>
 <td>
-2
+> ![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight)
 </td>
 </tr>
 </table>
 
-> ## TOP LANGS 
-> 
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=tokyonight&hide=css,html,javascript,ruby,blade,rust,go,hack,c)
->
-
 <!--- ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerCleanVic&show_icons=true&theme=tokyonight) --->
-> ## LATEST
-> ![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight)
->
 
 > ## LANGS BY REPO
 > 
