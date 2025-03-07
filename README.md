@@ -6,6 +6,9 @@
 >
 <br />
 
+import markdown
+str = """
+
 | TOP LANGS | LATEST |
 | :---------: | :------: |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=tokyonight&hide=css,html,javascript,ruby,blade,rust,go,hack,c) | ![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight) |
@@ -14,6 +17,10 @@
 | LANGS BY REPO |
 | :-------------: |
 | ![Langs Repos](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GamerCleanVic&theme=tokyonight&exclude=CSS,html,blade,typescript) |
+
+"""
+extensions = ['markdown.extensions.extra', 'markdown.extensions.smarty']
+html = markdown.markdown(str, extensions=extensions, output_format='html5')
 
 > ## SYSTEMS STILL TO BE USED
 > 
