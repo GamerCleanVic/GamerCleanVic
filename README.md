@@ -17,10 +17,10 @@
 </tr>
 <tr>
 <td>
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=tokyonight&hide=css,html,javascript,ruby,blade,rust,go,hack,c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=tokyonight&hide=css,html,javascript,ruby,blade,rust,go,hack,c)
 </td>
 <td>
-> ![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight)
 </td>
 </tr>
 </table>
