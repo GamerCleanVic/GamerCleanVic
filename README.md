@@ -42,5 +42,5 @@
 > 
 > 
 
-<style>table { border: 0; border-spacing: 0; }
-th, td { border: 1px solid rgb(0,0,0,0); }</style>
+table { border: 0; border-spacing: 0; }
+th, td { border: solid 1px rgb(0,0,0,0); }
