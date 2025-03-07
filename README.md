@@ -1,6 +1,3 @@
-<html>
-<style>th, td{border: solid 8px #fff;}</style>
-
 > 
 > # SOBRE MIM
 > ```php
@@ -17,8 +14,6 @@
 | LANGS BY REPO |
 | :-------------: |
 | ![Langs Repos](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GamerCleanVic&theme=tokyonight&exclude=CSS,html,blade,typescript) |
-
-</html>
 
 > ## SYSTEMS STILL TO BE USED
 > 
