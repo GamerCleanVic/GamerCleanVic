@@ -5,7 +5,7 @@
 > ```
 >
 <br />
-<div style='td, th{border: none}'>
+<div style='border: none'>
 
 | TOP LANGS | LATEST |
 | --------- | ------ |
