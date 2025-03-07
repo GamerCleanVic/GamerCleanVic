@@ -6,7 +6,7 @@
 >
 <br />
 
-<html style="border: solid 2px rgb(0,0,0,0);"></html>
+<style style="border: solid 2px rgb(0,0,0,0);"></style>
 
 | TOP LANGS | LATEST |
 | --------- | ------ |
