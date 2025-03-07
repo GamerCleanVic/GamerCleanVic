@@ -6,7 +6,7 @@
 >
 <br />
 
-<div style="display: flex; flex-direction: column; justify-content: space-around; align-items: center; ">
+<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; ">
 <div>
 <h3>TOP LANGS</h3>
   
