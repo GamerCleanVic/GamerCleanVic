@@ -5,15 +5,14 @@
 > ```
 >
 <br />
-<div style="table th, td{border: none !important;}">
 
 | TOP LANGS | LATEST |
-| --------- | ------ |
+| :---------: | :------: |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=tokyonight&hide=css,html,javascript,ruby,blade,rust,go,hack,c) | ![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight) |
 <!--- ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerCleanVic&show_icons=true&theme=tokyonight) --->
 
 | LANGS BY REPO |
-| ------------- |
+| :-------------: |
 | ![Langs Repos](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GamerCleanVic&theme=tokyonight&exclude=CSS,html,blade,typescript) |
 
 > ## SYSTEMS STILL TO BE USED
@@ -21,7 +20,6 @@
 > ![Linux](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white&theme=tokyonight)
 > ![Linux](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&theme=tokyonight)
 >
-</div>
 
 > ## SYSTEMS ALREADY USED
 >
