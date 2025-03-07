@@ -16,7 +16,7 @@
 > ![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight)
 >
 
-> ## ALREADY USED
+> ## SYSTEMS ALREADY USED
 >
 > ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&theme=tokyonight)
 > ![Linux](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&theme=tokyonight)
@@ -29,7 +29,7 @@
 > ![Linux](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white&theme=tokyonight)
 >
 
-> ## STILL TO BE USED
+> ## SYSTEMS STILL TO BE USED
 > 
 > ![Linux](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white&theme=tokyonight)
 > ![Linux](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&theme=tokyonight)
