@@ -17,7 +17,7 @@
 > [![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight)](https://git.io/streak-stats)
 >
 
-> <img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+> http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={GamerCleanVic}&theme={tokyonight}&exclude={html}&exclude={css}&exclude={blade}&exclude={typescript}
 > 
 > <br />
 > 
