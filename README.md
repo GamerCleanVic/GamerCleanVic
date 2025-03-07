@@ -26,7 +26,6 @@
 > ![Linux](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&theme=tokyonight)
 > ![Linux](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&theme=tokyonight)
 > ![Linux](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white&theme=tokyonight)
-> ![Linux](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white&theme=tokyonight)
 > ![Linux](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white&theme=tokyonight)
 >
 
