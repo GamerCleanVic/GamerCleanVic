@@ -21,6 +21,12 @@
 > ![Langs Repos](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GamerCleanVic&theme=tokyonight&exclude=CSS,html,blade,typescript)
 >
 
+> ## SYSTEMS STILL TO BE USED
+> 
+> ![Linux](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white&theme=tokyonight)
+> ![Linux](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&theme=tokyonight)
+>
+
 > ## SYSTEMS ALREADY USED
 >
 > ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&theme=tokyonight)
@@ -32,17 +38,8 @@
 > ![Linux](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&theme=tokyonight)
 > ![Linux](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white&theme=tokyonight)
 > ![Linux](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white&theme=tokyonight)
->
-
-> ## SYSTEMS STILL TO BE USED
-> 
-> ![Linux](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white&theme=tokyonight)
-> ![Linux](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&theme=tokyonight)
 > 
 
-> <br />
-> 
->
 > 
 > [![forks - GamerCleanVic](https://img.shields.io/github/forks/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic))
 > [![stars - GamerCleanVic](https://img.shields.io/github/stars/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) 
@@ -50,4 +47,3 @@
 > ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[page.id](GamerCleanVic))
 > 
 > 
->
