@@ -6,6 +6,14 @@
 >
 <br />
 
+<table>
+<tr>
+<th>...</th>
+  ...
+<td>...</td>  
+<tr>
+</table>
+
 > ## TOP LANGS 
 > 
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=tokyonight&hide=css,html,javascript,ruby,blade,rust,go,hack,c)
