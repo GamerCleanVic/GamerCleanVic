@@ -7,7 +7,7 @@
 <br />
 <div>
 <style>
-tr, td{
+td, th{
   border: none !important;
 }
 </style>
