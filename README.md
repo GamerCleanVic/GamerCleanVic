@@ -18,7 +18,9 @@
 >
 
 > 
-> [![Langs Repos](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GamerCleanVic&theme=tokyonight&exclude=html,css,blade,typescript)
+> [![Langs Repos](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GamerCleanVic&theme=tokyonight&exclude=css,html,blade,typescript)
+>
+
 > <br />
 > 
 >
