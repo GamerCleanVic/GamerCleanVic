@@ -5,12 +5,11 @@
 > ```
 >
 <br />
-<div>
+
 <style>
 td, th{
   border: none !important;
 }
-</style>
 
 | TOP LANGS | LATEST |
 | --------- | ------ |
@@ -21,7 +20,7 @@ td, th{
 | ------------- | 
 | ![Langs Repos](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GamerCleanVic&theme=tokyonight&exclude=CSS,html,blade,typescript) |
 
-</div>
+</style>
 
 > ## SYSTEMS STILL TO BE USED
 > 
