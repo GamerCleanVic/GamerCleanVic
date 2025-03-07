@@ -6,7 +6,7 @@
 >
 <br />
 
-border=0
+{ style="border: none;" }
 
 | TOP LANGS | LATEST |
 | :---:      |    :---:|
