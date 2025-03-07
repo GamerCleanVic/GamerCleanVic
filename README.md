@@ -8,8 +8,8 @@
 
 <div style="">
 
-<div>
 <div style="display: flex; flex-direction: column; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 1.5px;">
+<div>
 <div><h3>TOP LANGS</h3>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=tokyonight&hide=css,html,javascript,ruby,blade,rust,go,hack,c)</div>
