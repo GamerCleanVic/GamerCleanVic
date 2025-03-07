@@ -6,25 +6,12 @@
 >
 <br />
 
-<table markdown=1>
-<tr>
-<th>
-TOP LANGS
-</th>
-<th>
-LATEST
-</th>
-</tr>
-<tr>
-<td>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=tokyonight&hide=css,html,javascript,ruby,blade,rust,go,hack,c)
-</td>
-<td>
+| TOP LANGS | LATEST |
+| --------- | ------ |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=tokyonight&hide=css,html,javascript,ruby,blade,rust,go,hack,c)
+| 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight)
-</td>
-</tr>
-</table>
-
+|
 <!--- ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerCleanVic&show_icons=true&theme=tokyonight) --->
 
 > ## LANGS BY REPO
