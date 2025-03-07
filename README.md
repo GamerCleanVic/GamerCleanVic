@@ -8,9 +8,14 @@
 
 <table>
 <tr>
-<th>...</th>
-  ...
-<td>...</td>  
+<th>TÍTULO1</th>
+<td>1</td>
+<td>2</td>
+<tr>
+<tr>
+<th>TÍTULO2</th>
+<td>3</td>
+<td>4</td>
 <tr>
 </table>
 
