@@ -1,5 +1,6 @@
 <html>
-<style>th, td{border: none;}</style>
+<style>th, td{border: solid 8px #fff;}</style>
+
 > 
 > # SOBRE MIM
 > ```php
