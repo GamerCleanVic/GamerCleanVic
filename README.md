@@ -17,7 +17,7 @@
 
 > ### STILL TO BE USED SYSTEMS 
 > ![Linux](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white&theme=tokyonight)
-> ![Linux](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&theme=tokyonight) |
+> ![Linux](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&theme=tokyonight)
 >
 
 > ### ALREADY USED SYSTEMS
