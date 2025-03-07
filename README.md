@@ -14,7 +14,7 @@
 
 <!--- ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerCleanVic&show_icons=true&theme=tokyonight) --->
 >
-> ![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight)](https://git.io/streak-stats)
+> ![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight)]
 >
 
 >
