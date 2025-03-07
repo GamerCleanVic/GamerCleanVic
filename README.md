@@ -6,6 +6,7 @@
 >
 <br />
 
+$ cat custom.css
 td, th{ border: 10px solid rgb(0,0,50)}
 
 | TOP LANGS | LATEST |
