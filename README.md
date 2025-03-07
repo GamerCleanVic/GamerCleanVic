@@ -42,10 +42,4 @@
 > 
 > 
 
-table{ 
-border: 0; 
-border-spacing: 0; 
-}
-table th, td {
-border: solid 1px rgb(0,0,0,0);
-}
+border: 0;
