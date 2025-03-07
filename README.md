@@ -43,6 +43,7 @@
 > ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[page.id](GamerCleanVic))
 > 
 > 
+<html>
 <head>
 <style>
 table{
@@ -50,3 +51,4 @@ table{
 }
 <style>
 </head>
+</html>
