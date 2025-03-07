@@ -5,6 +5,11 @@
 > ```
 >
 <br />
+<style>
+tr, td{
+  border: none;
+}
+</style>
 
 | TOP LANGS | LATEST |
 | --------- | ------ |
