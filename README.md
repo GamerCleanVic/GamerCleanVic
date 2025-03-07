@@ -42,4 +42,5 @@
 > 
 > 
 
-<font style="td, th{border: none !important;}"></font>
+table { border: 0; border-spacing: 0; }
+th, td { border: 1px solid rgb(0,0,0,0); }
