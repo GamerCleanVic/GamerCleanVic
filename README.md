@@ -5,7 +5,7 @@
 > ```
 >
 <br />
-<div>
+<div style='border: solid 10 px rgb(0,0,50);'>
 
 | TOP LANGS | LATEST |
 | --------- | ------ |
