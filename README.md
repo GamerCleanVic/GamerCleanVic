@@ -7,7 +7,7 @@
 <br />
 
 <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
-<div style="display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
+<div style="display: flex; flex-direction: column; justify-content: space-between; align-items: center; border: solid 5px #fff;">
 <h3>TOP LANGS</h3>
 <div>
   
