@@ -8,7 +8,7 @@
 
 | TOP LANGS | LATEST |
 | :---:      |    :---:|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&layout=compact&theme=tokyonight&hide=css,html,blade,hack) | ![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&size_weight=0.5&count_weight=0.5&langs_count=10&hide=css,html,blade,hack&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight) |
 <!--- ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerCleanVic&show_icons=true&theme=tokyonight) --->
 
 | LANGS BY COMMIT |
@@ -28,7 +28,6 @@
 > 
 > [![forks - GamerCleanVic](https://img.shields.io/github/forks/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic))
 > [![stars - GamerCleanVic](https://img.shields.io/github/stars/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) 
-> [![Maintenance](https://img.shields.io/maintenance/yes/2025?color=%234f0faf&label=maintened&logo=github&logoColor=%23ffffff)]([#](https://github.com/GamerCleanVic))
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&size_weight=0.5&count_weight=0.5&langs_count=10&hide=css,html,blade,hack&theme=tokyonight)
+> [![Maintenance](https://img.shields.io/maintenance/yes/2025?color=%234f0faf&label=maintened&logo=github&logoColor=%23ffffff)]([#](https://github.com/GamerCleanVic)) 
 > 
 > 
