@@ -29,6 +29,6 @@
 > [![forks - GamerCleanVic](https://img.shields.io/github/forks/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic))
 > [![stars - GamerCleanVic](https://img.shields.io/github/stars/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) 
 > [![Maintenance](https://img.shields.io/maintenance/yes/2025?color=%234f0faf&label=maintened&logo=github&logoColor=%23ffffff)]([#](https://github.com/GamerCleanVic))
-> ![YouTube Video Views](https://img.shields.io/youtube/views/v=zjSHQl9b-Tc)
+> ![YouTube Video Views](https://img.shields.io/youtube/views/:v=zjSHQl9b-Tc)
 > 
 > 
