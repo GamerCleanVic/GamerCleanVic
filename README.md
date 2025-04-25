@@ -30,6 +30,6 @@
 > [![stars - GamerCleanVic](https://img.shields.io/github/stars/GamerCleanVic/GamerCleanVic?style=social&logo=github&logoColor=%234f0faf)]([#](https://github.com/GamerCleanVic)) 
 > [![Maintenance](https://img.shields.io/maintenance/yes/2025?color=%234f0faf&label=maintened&logo=github&logoColor=%23ffffff)]([#](https://github.com/GamerCleanVic))
 > ![YouTube Video Views](https://img.shields.io/youtube/views/:zjSHQl9b-Tc)
-> ![(inijs.vercel.app)](https://img.shields.io/website?url=https%3A%2F%2Finijs.vercel.app 'inijs.vercel.app')
+> image:https://img.shields.io/website?url=https%3A%2F%2Finijs.vercel.app[Website]
 > 
 > 
