@@ -8,7 +8,7 @@
 
 | TOP LANGS | LATEST |
 | :---:      |    :---:|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&size_weight=0.5&count_weight=0.5&langs_count=10&hide=css,html,blade,hack&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&size_weight=0.5&count_weight=0.5&langs_count=10&hide=css,html,blade,hack,makefile&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight) |
 <!--- ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerCleanVic&show_icons=true&theme=tokyonight) --->
 
 | LANGS BY COMMIT |
