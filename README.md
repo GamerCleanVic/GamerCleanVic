@@ -6,14 +6,10 @@
 >
 <br />
 
-| TOP LANGS | LATEST |
+| TOP LANGS | LANGS BY COMMIT |
 | :---:      |    :---:|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&size_weight=0.5&count_weight=0.5&langs_count=10&hide=css,html,blade,hack,makefile&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com/?user=GamerCleanVic&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&size_weight=0.5&count_weight=0.5&langs_count=10&hide=css,html,blade,hack,makefile&theme=tokyonight) | ![Langs Repos](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GamerCleanVic&theme=tokyonight&exclude=CSS,html,blade,typescript) |
 <!--- ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerCleanVic&show_icons=true&theme=tokyonight) --->
-
-| LANGS BY COMMIT |
-| :-------------: |
-| ![Langs Repos](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GamerCleanVic&theme=tokyonight&exclude=CSS,html,blade,typescript) |
 
 > ### STILL TO BE USED SYSTEMS 
 > ![Linux](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white&theme=tokyonight)
