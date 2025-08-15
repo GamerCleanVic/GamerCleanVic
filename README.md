@@ -6,8 +6,6 @@
 >
 <br />
 
-<body><iframe frameborder="0" src="https://itch.io/embed/3810804?linkback=true&amp;bg_color=131842&amp;fg_color=ECCEAE&amp;link_color=E68369&amp;border_color=FBF6E2" width="552" height="167"><a href="https://inijs.itch.io/skilaum">Skilaum by inijs</a></iframe></body>
-
 | TOP LANGS | LANGS BY COMMIT |
 | :---:      |    :---:|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCleanVic&size_weight=0.5&count_weight=0.5&langs_count=10&hide=css,html,blade,hack,makefile&theme=tokyonight) | ![Langs Repos](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GamerCleanVic&theme=tokyonight&exclude=CSS,html,blade,typescript) |
