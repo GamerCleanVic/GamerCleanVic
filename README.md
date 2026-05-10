@@ -8,7 +8,7 @@
 
 | TOP LANGS | LANGS BY COMMIT |
 | :---:      |    :---:|
-| ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GamerCleanVic&theme=radical&hide=html,css,hack,) | ![Langs Repos](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GamerCleanVic&theme=tokyonight&exclude=CSS,html,hack,blade,makefile,make) |
+| ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GamerCleanVic&langs_count=33&theme=radical&hide=html,css,hack,blaze) | ![Langs Repos](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GamerCleanVic&theme=tokyonight&exclude=CSS,html,hack,blade,makefile,make) |
 <!--- ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerCleanVic&show_icons=true&theme=tokyonight) --->
 
 > ### STILL TO BE USED SYSTEMS 
